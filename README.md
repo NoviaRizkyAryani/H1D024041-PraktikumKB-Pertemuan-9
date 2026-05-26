@@ -266,13 +266,3 @@ Fitness tertinggi (garis biru) mungkin tidak selalu naik karena:
 4. **Jalankan berkali-kali** - ambil hasil terbaik dari beberapa run
 
 ---
-## 📚 Referensi
-
-- Holland, J. H. (1975). "Adaptation in Natural and Artificial Systems"
-- [Wikipedia - Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
-- [Wikipedia - Knapsack Problem](https://en.wikipedia.org/wiki/Knapsack_problem)
-
----
-
-**Terakhir diperbarui:** 26 Mei 2026  
-**Status:** ✅ Selesai dan Teruji
